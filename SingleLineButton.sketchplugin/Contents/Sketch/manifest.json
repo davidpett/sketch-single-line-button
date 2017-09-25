@@ -1,6 +1,6 @@
 {
   "name" : "Single Line Button",
-  "identifier" : "singlelinebutton",
+  "identifier" : "com.davidpett.sketch.singlelinebutton",
   "version" : "1.0.0",
   "description" : "Expand a symbol width to the width of the text layer with offset",
   "authorEmail" : "me@davidpett.com",
