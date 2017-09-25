@@ -1,0 +1,9 @@
+{
+  "name": "Single Line Button",
+  "description": "Single Line Button plug-in allows to resize a button symbol based on the width of the text",
+  "tags": [
+    "dynamic",
+    "buttons",
+    "automatization"
+  ]
+}
