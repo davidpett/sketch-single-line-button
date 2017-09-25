@@ -1,6 +1,6 @@
 {
   "name" : "Single Line Button",
-  "identifier" : "singleLineButton",
+  "identifier" : "singlelinebutton",
   "version" : "1.0.0",
   "description" : "Expand a symbol width to the width of the text layer with offset",
   "authorEmail" : "me@davidpett.com",
@@ -11,13 +11,13 @@
       "handler" : "onRun",
       "shortcut" : "cmd shift b",
       "name" : "Single Line Button",
-      "identifier" : "singleLineButton"
+      "identifier" : "singlelinebutton"
     }
   ],
   "menu": {
     "isRoot": true,
     "items": [
-      "singleLineButton"
+      "singlelinebutton"
     ],
     "title": "Make Button a Single Line"
   }
